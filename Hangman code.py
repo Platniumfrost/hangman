@@ -46,7 +46,7 @@ MAX_WRONG=len(HANGMAN)-1
 print(HANGMAN[len(HANGMAN)-1])
 
 
-WORDS=("OVERUSE","CLAM","GUAM","TAFFETA")
+WORDS=("OVERUSE","CLAM","GUAM","TAFFETA", "FRIEND", "FAMILY", "SCHOOL", "FOOD", "SLEEP", "GAME")
 ##word_index=random.randint(o,len(WORDS))
 ##word=WORDS[word_index]
 ##print(word_index)
